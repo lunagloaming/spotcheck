@@ -5,4 +5,5 @@ import { Component } from '@angular/core';
   styleUrl: 'landing.page.scss'
 })
 export class LandingPage {
+  public readonly title = "SpotCheck"
 }
